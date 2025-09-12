@@ -1,7 +1,7 @@
 # PRACTICE EXERCISES APPLICATION SOFTWARE DEVELOPMENT
 ## General Info
 
-Student-ID: 22403758
+<br> Student-ID: 22403758 <\br>
 Name: Hoàng Thế Quyền
 
 ## WEEK 1
@@ -38,3 +38,13 @@ namespace Week1
 <br> https://dttt.hsu.edu.vn/mod/page/view.php?id=177746  </br>
 <br> https://dttt.hsu.edu.vn/mod/resource/view.php?id=177748 </br>
 <br> https://dttt.hsu.edu.vn/pluginfile.php/209423/mod_assign/introattachment/0/Baitap01.pdf <br>
+## WEEK 2
+## WEEK 3
+## WEEK 4
+## WEEK 5
+## WEEK 6
+## WEEK 8
+## WEEK 9
+## WEEK 10
+## WEEK 11
+## WEEK 12
