@@ -1,7 +1,7 @@
 # PRACTICE EXERCISES APPLICATION SOFTWARE DEVELOPMENT
 ## General Info
 
-<br> Student-ID: 22403758 <\br>
+<br> Student-ID: 22403758 </br>
 Name: Hoàng Thế Quyền
 
 ## WEEK 1
