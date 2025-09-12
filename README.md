@@ -1,45 +1,28 @@
 # PRACTICE EXERCISES APPLICATION SOFTWARE DEVELOPMENT
 ## General Info
 
-<br> Student-ID: 22403758 </br>
-Name: Hoàng Thế Quyền
+##### Student-ID: 22403758
+##### Name: Hoàng Thế Quyền
 
 ## WEEK 1
-### Exercises
-#### Exercise 1
-Install Visual Studio and write a program that displays the message “Hello
-world!”
-##### Source code:
-```csharp
-using System;
-using System.Windows.Forms;
-
-namespace Week1
-{
-    public partial class Form1 : Form
-    {
-        public Form1()
-        {
-            InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            MessageBox.Show("Hello world!");
-        }
-    }
-}
-```
-
-##### Result:
+### Exercise 1
 <img width="832" height="622" alt="image" src="https://github.com/user-attachments/assets/18570414-c9d4-4513-839c-358c7c868bbb" />
 
-##### References
-<br> https://dttt.hsu.edu.vn/mod/page/view.php?id=177746  </br>
-<br> https://dttt.hsu.edu.vn/mod/resource/view.php?id=177748 </br>
-<br> https://dttt.hsu.edu.vn/pluginfile.php/209423/mod_assign/introattachment/0/Baitap01.pdf <br>
 ## WEEK 2
 ## WEEK 3
+### Exercise 1
+<img width="827" height="757" alt="image" src="https://github.com/user-attachments/assets/44485717-bf4b-4560-bd6c-7fc8c67cc88b" />
+<img width="833" height="798" alt="image" src="https://github.com/user-attachments/assets/30161b5b-51f5-4dd2-9a97-9b69153de093" />
+
+### Exercise 2
+<img width="822" height="366" alt="image" src="https://github.com/user-attachments/assets/ae8d3224-f11a-4713-8864-bf0fd62f0f21" />
+
+### Exercise 3
+<img width="827" height="876" alt="image" src="https://github.com/user-attachments/assets/f84bf68d-ec49-4895-9649-c796d0cce714" />
+<img width="1327" height="836" alt="image" src="https://github.com/user-attachments/assets/b5511db1-02c9-46ad-83f1-7e8e7e6d85fd" />
+<img width="1326" height="1047" alt="image" src="https://github.com/user-attachments/assets/4ca4745e-c6b3-41b2-99dd-f64a0e63d24b" />
+<img width="1311" height="655" alt="image" src="https://github.com/user-attachments/assets/9d712640-a9f3-4845-a00a-01662df8554c" />
+
 ## WEEK 4
 ## WEEK 5
 ## WEEK 6
