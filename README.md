@@ -24,6 +24,38 @@
 <img width="1311" height="655" alt="image" src="https://github.com/user-attachments/assets/9d712640-a9f3-4845-a00a-01662df8554c" />
 
 ## WEEK 4
+### Test Scenarios for Employee Manager
+#### 1/ Add Employee
+##### Add valid employee
+<img width="1526" height="968" alt="image" src="https://github.com/user-attachments/assets/cd3e758c-79a6-43df-a4c7-cee2afe7532b" />
+
+##### Add employee with duplicate ID
+<img width="1522" height="952" alt="image" src="https://github.com/user-attachments/assets/ede9aa32-f6a2-4c80-a101-6425d5f7a30f" />
+
+##### Add employee with empty ID, Name, Phone
+<img width="1515" height="947" alt="image" src="https://github.com/user-attachments/assets/e8cb88bf-b36e-4527-84d3-21e4554cc961" />
+
+##### Add employee with invalid Email
+<img width="1533" height="961" alt="image" src="https://github.com/user-attachments/assets/7e1dab4c-646a-41fe-b3c5-effab778a5e0" />
+
+##### Add employee with empty Email
+<img width="1532" height="961" alt="image" src="https://github.com/user-attachments/assets/13f604dd-3dba-465c-b90b-fee05b4ee788" />
+
+#### 2/ Update Employee
+##### Update valid fields
+<img width="1538" height="952" alt="image" src="https://github.com/user-attachments/assets/3ca54cc8-bf7e-4825-ae09-6dd063312a07" />
+
+##### Update with empty Name, Phone
+<img width="1512" height="962" alt="image" src="https://github.com/user-attachments/assets/30d4b8c5-a0c8-4329-acf9-98a799ebe0fa" />
+
+##### Update with invalid Email
+<img width="1492" height="930" alt="image" src="https://github.com/user-attachments/assets/4dfb78ba-d8f0-4d92-9b42-9e7e77b5c763" />
+
+##### Update ID field
+#### 3/ Delete Employee
+##### Delete existing employee
+<img width="1517" height="995" alt="image" src="https://github.com/user-attachments/assets/27404f9b-a57e-4067-8280-611a7a2d3524" />
+
 ## WEEK 5
 ## WEEK 6
 ## WEEK 8
