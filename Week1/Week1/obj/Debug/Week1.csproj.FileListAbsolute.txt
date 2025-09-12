@@ -1,0 +1,10 @@
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week1\Week1\bin\Debug\Week1.exe.config
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week1\Week1\bin\Debug\Week1.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week1\Week1\bin\Debug\Week1.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week1\Week1\obj\Debug\Week1.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week1\Week1\obj\Debug\Week1.Form1.resources
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week1\Week1\obj\Debug\Week1.Properties.Resources.resources
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week1\Week1\obj\Debug\Week1.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week1\Week1\obj\Debug\Week1.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week1\Week1\obj\Debug\Week1.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week1\Week1\obj\Debug\Week1.pdb
