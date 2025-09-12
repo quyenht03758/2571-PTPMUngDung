@@ -1,0 +1,11 @@
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week3\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week3\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week3\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week3\Exercise2\obj\Debug\Exercise2.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week3\Exercise2\obj\Debug\Exercise2.Form1.resources
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week3\Exercise2\obj\Debug\Exercise2.Properties.Resources.resources
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week3\Exercise2\obj\Debug\Exercise2.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week3\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week3\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week3\Exercise2\obj\Debug\Exercise2.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week3\Exercise2\obj\Debug\Exercise2.exe.config
