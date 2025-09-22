@@ -18,6 +18,7 @@ namespace Exercise2
 
             int max = (a > b) ? a : b;
             Console.WriteLine($"The larger number is: {max}");
+
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise9\bin\Debug\Exercise9.exe.config
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise9\bin\Debug\Exercise9.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise9\bin\Debug\Exercise9.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise9\obj\Debug\Exercise9.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise9\obj\Debug\Exercise9.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise9\obj\Debug\Exercise9.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise9\obj\Debug\Exercise9.pdb

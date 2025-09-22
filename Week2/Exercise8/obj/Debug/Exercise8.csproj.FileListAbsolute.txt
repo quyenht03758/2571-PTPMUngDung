@@ -1,0 +1,7 @@
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise8\bin\Debug\Exercise8.exe.config
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise8\bin\Debug\Exercise8.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise8\bin\Debug\Exercise8.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise8\obj\Debug\Exercise8.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise8\obj\Debug\Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise8\obj\Debug\Exercise8.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise8\obj\Debug\Exercise8.pdb

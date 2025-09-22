@@ -5,3 +5,4 @@ C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise2\obj\De
 C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
 C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise2\obj\Debug\Exercise2.exe
 C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise2\obj\Debug\Exercise2.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week2\Exercise2\obj\Debug\Exercise2.exe.config
