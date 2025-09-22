@@ -1,0 +1,13 @@
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week67\Week67\bin\Debug\Week67.exe.config
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week67\Week67\bin\Debug\Week67.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week67\Week67\bin\Debug\Week67.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week67\Week67\obj\Debug\Week67.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week67\Week67\obj\Debug\Week67.Properties.Resources.resources
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week67\Week67\obj\Debug\Week67.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week67\Week67\obj\Debug\Week67.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week67\Week67\obj\Debug\Week67.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week67\Week67\obj\Debug\Week67.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week67\Week67\obj\Debug\Week67.exe.config
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week67\Week67\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week67\Week67\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\Week67\Week67\obj\Debug\Week67.csproj.Up2Date
