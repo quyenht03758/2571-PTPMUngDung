@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="NorthwindDataSet" targetNamespace="http://tempuri.org/NorthwindDataSet.xsd" xmlns:mstns="http://tempuri.org/NorthwindDataSet.xsd" xmlns="http://tempuri.org/NorthwindDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="NorthwindConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="NorthwindConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Week9.Properties.Settings.GlobalReference.Default.NorthwindConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Sales_by_CategoryTableAdapter" GeneratorDataComponentClassName="Sales_by_CategoryTableAdapter" Name="Sales_by_Category" UserDataComponentName="Sales_by_CategoryTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="NorthwindConnectionString (Settings)" DbObjectName="Northwind.dbo.[Sales by Category]" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT CategoryName, ProductName, ProductSales
+FROM [Sales by Category]
+ORDER BY CategoryName, ProductName;
+</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="CategoryName" DataSetColumn="CategoryName" />
+              <Mapping SourceColumn="ProductName" DataSetColumn="ProductName" />
+              <Mapping SourceColumn="ProductSales" DataSetColumn="ProductSales" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Sales_by_Category_totalTableAdapter" GeneratorDataComponentClassName="Sales_by_Category_totalTableAdapter" Name="Sales_by_Category_total" UserDataComponentName="Sales_by_Category_totalTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="NorthwindConnectionString (Settings)" DbObjectName="Northwind.dbo.[Sales by Category]" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT
+    CategoryName,
+    SUM(ProductSales) AS CategoryTotal
+FROM [Sales by Category]
+GROUP BY CategoryName
+ORDER BY CategoryName;
+</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="CategoryName" DataSetColumn="CategoryName" />
+              <Mapping SourceColumn="CategoryTotal" DataSetColumn="CategoryTotal" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="NorthwindDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="NorthwindDataSet" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="NorthwindDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Sales_by_Category" msprop:Generator_RowClassName="Sales_by_CategoryRow" msprop:Generator_RowEvHandlerName="Sales_by_CategoryRowChangeEventHandler" msprop:Generator_RowDeletedName="Sales_by_CategoryRowDeleted" msprop:Generator_RowDeletingName="Sales_by_CategoryRowDeleting" msprop:Generator_RowEvArgName="Sales_by_CategoryRowChangeEvent" msprop:Generator_TablePropName="Sales_by_Category" msprop:Generator_RowChangedName="Sales_by_CategoryRowChanged" msprop:Generator_UserTableName="Sales_by_Category" msprop:Generator_RowChangingName="Sales_by_CategoryRowChanging" msprop:Generator_TableClassName="Sales_by_CategoryDataTable" msprop:Generator_TableVarName="tableSales_by_Category">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CategoryName" msprop:Generator_UserColumnName="CategoryName" msprop:Generator_ColumnPropNameInTable="CategoryNameColumn" msprop:Generator_ColumnPropNameInRow="CategoryName" msprop:Generator_ColumnVarNameInTable="columnCategoryName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ProductName" msprop:Generator_UserColumnName="ProductName" msprop:Generator_ColumnPropNameInTable="ProductNameColumn" msprop:Generator_ColumnPropNameInRow="ProductName" msprop:Generator_ColumnVarNameInTable="columnProductName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ProductSales" msprop:Generator_UserColumnName="ProductSales" msprop:Generator_ColumnPropNameInTable="ProductSalesColumn" msprop:Generator_ColumnPropNameInRow="ProductSales" msprop:Generator_ColumnVarNameInTable="columnProductSales" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Sales_by_Category_total" msprop:Generator_RowEvHandlerName="Sales_by_Category_totalRowChangeEventHandler" msprop:Generator_RowDeletedName="Sales_by_Category_totalRowDeleted" msprop:Generator_RowDeletingName="Sales_by_Category_totalRowDeleting" msprop:Generator_RowEvArgName="Sales_by_Category_totalRowChangeEvent" msprop:Generator_TablePropName="Sales_by_Category_total" msprop:Generator_RowChangedName="Sales_by_Category_totalRowChanged" msprop:Generator_RowChangingName="Sales_by_Category_totalRowChanging" msprop:Generator_TableClassName="Sales_by_Category_totalDataTable" msprop:Generator_RowClassName="Sales_by_Category_totalRow" msprop:Generator_TableVarName="tableSales_by_Category_total" msprop:Generator_UserTableName="Sales_by_Category_total">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CategoryName" msprop:Generator_ColumnPropNameInRow="CategoryName" msprop:Generator_ColumnPropNameInTable="CategoryNameColumn" msprop:Generator_ColumnVarNameInTable="columnCategoryName" msprop:Generator_UserColumnName="CategoryName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CategoryTotal" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInRow="CategoryTotal" msprop:Generator_ColumnPropNameInTable="CategoryTotalColumn" msprop:Generator_ColumnVarNameInTable="columnCategoryTotal" msprop:Generator_UserColumnName="CategoryTotal" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
