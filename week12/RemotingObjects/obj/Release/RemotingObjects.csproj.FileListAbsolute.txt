@@ -1,0 +1,6 @@
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\RemotingObjects\bin\Release\RemotingObjects.dll
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\RemotingObjects\bin\Release\RemotingObjects.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\RemotingObjects\obj\Release\RemotingObjects.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\RemotingObjects\obj\Release\RemotingObjects.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\RemotingObjects\obj\Release\RemotingObjects.dll
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\RemotingObjects\obj\Release\RemotingObjects.pdb

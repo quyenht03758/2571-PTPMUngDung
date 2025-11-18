@@ -1,0 +1,14 @@
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\bin\Release\ClientApplication.exe.config
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\bin\Release\ClientApplication.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\bin\Release\ClientApplication.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\bin\Release\RemotingObjects.dll
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\bin\Release\RemotingObjects.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\obj\Release\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\obj\Release\ClientApplication.FrmProjectManager.resources
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\obj\Release\ClientApplication.FrmProjectEdit.resources
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\obj\Release\ClientApplication.Properties.Resources.resources
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\obj\Release\ClientApplication.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\obj\Release\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\obj\Release\ClientAp.D781E2E7.Up2Date
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\obj\Release\ClientApplication.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\ClientApplication\obj\Release\ClientApplication.pdb

@@ -1,0 +1,13 @@
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\ClientApplication\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\ClientApplication\obj\Debug\ClientApplication.FrmSocialInsurance.resources
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\ClientApplication\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\ClientApplication\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\ClientApplication\bin\Debug\SocialInsuranceService.dll
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\ClientApplication\bin\Debug\SocialInsuranceService.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\ClientApplication\obj\Debug\ClientAp.D781E2E7.Up2Date
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\ClientApplication\obj\Debug\ClientApplication.pdb

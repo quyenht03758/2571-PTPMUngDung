@@ -1,0 +1,11 @@
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\HostApplication\bin\Debug\HostApplication.exe.config
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\HostApplication\bin\Debug\HostApplication.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\HostApplication\bin\Debug\HostApplication.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\HostApplication\bin\Debug\RemotingObjects.dll
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\HostApplication\bin\Debug\RemotingObjects.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\HostApplication\obj\Debug\HostApplication.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\HostApplication\obj\Debug\HostApplication.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\HostApplication\obj\Debug\HostAppl.78353147.Up2Date
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\HostApplication\obj\Debug\HostApplication.exe
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\HostApplication\obj\Debug\HostApplication.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week12\HostApplication\obj\Debug\HostApplication.exe.config

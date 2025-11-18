@@ -1,0 +1,6 @@
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\SocialInsuranceService\bin\Debug\SocialInsuranceService.dll
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\SocialInsuranceService\bin\Debug\SocialInsuranceService.pdb
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\SocialInsuranceService\obj\Debug\SocialInsuranceService.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\SocialInsuranceService\obj\Debug\SocialInsuranceService.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\SocialInsuranceService\obj\Debug\SocialInsuranceService.dll
+C:\Users\hoang\source\repos\quyenht03758\2571-PTPMUngDung\week13\SocialInsuranceService\obj\Debug\SocialInsuranceService.pdb
