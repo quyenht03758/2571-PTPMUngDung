@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(dotnet build:*)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" Week12-ProjectManagement.sln /t:Build /p:Configuration=Debug)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" RemotingObjects.csproj -p:Configuration=Debug)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" HostApplication.csproj -p:Configuration=Debug)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" ClientApplication.csproj -p:Configuration=Debug)",
+      "Bash(start HostApplication.exe)",
+      "Bash(start ClientApplication.exe)",
+      "Bash(dir:*)",
+      "Bash(powershell -Command \"Start-Process HostApplication.exe\")",
+      "Bash(powershell -Command \"Start-Process ClientApplication.exe\")",
+      "Bash(./ClientApplication.exe)",
+      "Bash(netstat:*)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" RemotingObjects.csproj -p:Configuration=Debug -t:Rebuild)",
+      "Bash(taskkill:*)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" HostApplication.csproj -p:Configuration=Debug -t:Rebuild)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" ClientApplication.csproj -p:Configuration=Debug -t:Rebuild)",
+      "Bash(exit 0)",
+      "Bash(tasklist:*)",
+      "Bash(findstr:*)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" week12/ClientApplication/ClientApplication.csproj -p:Configuration=Debug -t:Rebuild)",
+      "Bash(timeout /t 3 /nobreak)",
+      "Bash(powershell:*)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" week13/Week13-SocialInsurance.sln /t:Build /p:Configuration=Debug)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" week13Week13-SocialInsurance.sln //t:Build //p:Configuration=Debug)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" Week13-SocialInsurance.sln /t:Build /p:Configuration=Debug)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" Week13-SocialInsurance.sln -t:Build -p:Configuration=Debug)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" week13/HostApplication/HostApplication.csproj -p:Configuration=Debug -t:Rebuild)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" week13/Week13-SocialInsurance.sln -t:Build -p:Configuration=Debug)",
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" week13/Week13-SocialInsurance.sln -t:Rebuild -p:Configuration=Debug)",
+      "Bash(timeout /t 5 /nobreak)",
+      "Bash(netsh http add urlacl url=http://+:8080/SocialInsuranceService/ user=Everyone)",
+      "Bash(netsh http show urlacl)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
