@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Views\ApplyYamlDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ApplyYamlForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\AuditLogDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DaemonSetDetailsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DeploymentDetailsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DoubleBufferedDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\FavoritesDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\LoginView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\LogsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\MainView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\MainViewLens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\PodDetailsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\PortForwardManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ScaleDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\SettingsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\SimpleLoginView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\StatefulSetDetailsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TemplateEditorDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TemplateManagerDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TerminalDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\VariableInputDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\WorkloadPodsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
